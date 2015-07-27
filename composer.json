@@ -1,0 +1,11 @@
+{
+    "name": "quandt/admin-theme",
+    "description": "This package provide a clean and lightweight theme for your laravel admin",
+    "authors": [
+        {
+            "name": "QuanDT",
+            "email": "quandt@nadia.bz"
+        }
+    ],
+    "require": {}
+}
